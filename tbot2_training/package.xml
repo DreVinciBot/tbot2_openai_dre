@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>my_turtlebot2_training</name>
+  <name>tbot2_training</name>
   <version>0.0.0</version>
   <description>The my_turtlebot2_training package</description>
 
