@@ -1,7 +1,7 @@
 # tbot2_openai_dre
 
 This project explores Aumgented reality (AR)'s role in human-in-the-loop techniques to enhance Reinforcement Learning algorithms.
-Here, the Turtlebot2 simulator in the openai_ros package is leveraged and modified to prompt a user for reasonable actions during the learning process. The robot's goal is to navigate through an enviornment while avoiding obstacles. A Q-learning approached is utilized  
+Here, the Turtlebot2 simulator in the openai_ros package is leveraged and modified to prompt a user for reasonable actions during the learning process. For further information read [Learn the basics of openai_ros using a Turtlebot2 simulation](http://wiki.ros.org/openai_ros/TurtleBot2%20with%20openai_ros).  The robot's goal is to navigate through an enviornment while avoiding obstacles. A Q-learning approached is utilized  
 and the inputs are the robot's :   and the output is the robot's :
 
 ## Getting Started
