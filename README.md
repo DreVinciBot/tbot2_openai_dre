@@ -1,7 +1,7 @@
 # tbot2_openai_dre
 
 ![turtlebot2 openai](/images/tbot2_training.gif)
-Format: ![Alt Text](url)
+Screen capture of Turtlebot simulator during training.
 
 
 
