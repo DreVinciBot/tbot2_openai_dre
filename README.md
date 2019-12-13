@@ -29,7 +29,7 @@ pip install gcg
 ```
 gym-ros
 ```
-pip install gym-ros
+pip install gym
 ```
 
 The Turtlebot package and Gazebo Simulator
